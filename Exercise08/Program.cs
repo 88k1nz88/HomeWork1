@@ -15,8 +15,7 @@ while (count <= N)
 {
     if (count % 2 == 0)
     {
-        Console.Write ($"{count}, ");
+        Console.Write ($"{count} ");
     }
     count++;
 }
-Console.Write (".");
